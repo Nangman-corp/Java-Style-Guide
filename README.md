@@ -239,7 +239,7 @@ AnnotationConfigApplicationContext ac =
             new AnnotationConfigApplicationContext(SameBeanConfig.class);
 ```
 
-### 3.4 공백 문자(Blank**)**
+### 3.4 공백 문자(**Blank)**
 
 ---
 
