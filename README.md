@@ -33,6 +33,7 @@
 - [4.2 모든 예외는 처리(Caught exceptions : not ignored)](https://github.com/Nangman-corp/Java-Style-Guide/blob/main/README.md#42-%EB%AA%A8%EB%93%A0-%EC%98%88%EC%99%B8%EB%8A%94-%EC%B2%98%EB%A6%ACcaught-exceptions--not-ignored)
 - [4.3 Static 멤버는 클래스로 접근(Static members : Qualified using class)](https://github.com/Nangman-corp/Java-Style-Guide/blob/main/README.md#43-static-%EB%A9%A4%EB%B2%84%EB%8A%94-%ED%81%B4%EB%9E%98%EC%8A%A4%EB%A1%9C-%EC%A0%91%EA%B7%BCstatic-members--qualified-using-class)
 
+---
 
 # 1. 소개(Intro)
 
