@@ -5,8 +5,8 @@
 
 </aside>
 
----
 ## 목차
+---
 
 ### [1. 소개(Intro)](https://github.com/Nangman-corp/Java-Style-Guide/blob/main/README.md#1-%EC%86%8C%EA%B0%9Cintro-1)
 - [1.1 용어(term)](https://github.com/Nangman-corp/Java-Style-Guide/blob/main/README.md#11-%EC%9A%A9%EC%96%B4term)
