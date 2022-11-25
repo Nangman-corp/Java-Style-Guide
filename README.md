@@ -7,6 +7,12 @@
 
 </aside>
 
+---
+## 목차
+
+  ### 1. [소개(Intro)](https://github.com/Nangman-corp/Java-Style-Guide/blob/main/README.md#1-%EC%86%8C%EA%B0%9Cintro)
+  - 1.1 [용어(term)](https://github.com/Nangman-corp/Java-Style-Guide/blob/main/README.md#11-%EC%9A%A9%EC%96%B4term)
+
 # 1. 소개(Intro)
 
 ---
@@ -37,7 +43,7 @@
 
 # 2. 이름(Name)
 
-### 2.2 공통 규칙(**common rules)**
+### 2.1 공통 규칙(**common rules)**
 
 ---
 
