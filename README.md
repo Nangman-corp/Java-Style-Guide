@@ -370,4 +370,6 @@ somethingThatYieldsAFoo().aStaticMethod(); // very bad
 
 ---
 
-[Spring Style Guide](https://www.notion.so/Spring-Style-Guide-176f99976b7e4d42a31aca4c70873748)
+### Contributors
+---
+@Minjun-KANG
