@@ -373,4 +373,4 @@ somethingThatYieldsAFoo().aStaticMethod(); // very bad
 ### Contributors
 ---
 [강민준](https://github.com/Minjun-KANG)이 작성하고 [박훈성](https://github.com/HunSeongPark)이 검수하였습니다. 도움을 주신 [박훈성](https://github.com/HunSeongPark)에게 감사 인사를 드립니다.
-- (Contributors)[https://github.com/Nangman-corp/Java-Style-Guide/graphs/contributors]
+- [Contributors](https://github.com/Nangman-corp/Java-Style-Guide/graphs/contributors)
