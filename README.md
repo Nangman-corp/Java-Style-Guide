@@ -1,7 +1,5 @@
 # Java Style Guide
 
-엔지니어링 팀을 위한 스타일 가이드와 모범 사례
-
 <aside>
 💡 본문은 낭만(Nangman)의 Java 스타일 가이드 입니다. 구글 Java 가이드를 참고하여 작성하였습니다.
 
